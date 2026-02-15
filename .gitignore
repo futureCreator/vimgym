@@ -1,0 +1,18 @@
+# Binaries
+vimgym
+puzzlecheck
+*.exe
+
+# Neovim logs
+.nvimlog
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/

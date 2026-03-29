@@ -121,6 +121,22 @@ vimgym/
 └── go.sum
 ```
 
+## What's New
+
+### v1.0.0 - 2026-03-29
+
+- Initial stable release of VimGym TUI
+- 162 puzzles across 30 levels in 4 learning tracks (Foundations, Editing, Power Moves, Vim Golf)
+- Real Vim engine via embedded Neovim (`--embed` mode)
+- Vim Golf scoring with 3-star system
+- Hints and optimal solution viewer
+- Local progress persistence (`~/.vimgym/`)
+- VimGym Web design spec and implementation plan added
+
+### v0.1.0
+
+- Initial MVP release
+
 ## License
 
 MIT
